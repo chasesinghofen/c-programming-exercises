@@ -1,0 +1,64 @@
+11/22/2016 thursday notes-cop1000
+
+
+
+no class thursday
+
+happy thanksgiving
+
+quiz next thursday  12/1-based on functions
+
+assignment 9 due 11/28/2016
+
+test 3 tuesday 12/6/16
+
+functions: breaking down big problems down to smaller problems
+
+you can reuse same code.
+
+funtions
+
+module-break problem
+
+functions are gonna have a name
+programmer chooses name for the funtion, give relevent proper name. not somthing stupid
+
+name() this is a function
+
+we've used main() in this class 
+{
+block of code
+}
+
+starts with main and ends with main. or function
+
+returntype name()-means datatype
+
+int main is returntype
+
+example: int myfunction(),-->valid funtion
+
+1) declare functions
+2)definition
+3)calling/invoking
+
+
+not returning anything is called void myfunction(),
+
+{
+block of code
+
+return___ ;
+}
+
+function definitions at top is option
+
+(WATCH VIDEOS)
+
+DECLARE FUNCTIONS FIRST THEN WRITE CODE OR PROBLEM.
+
+
+
+
+
+
